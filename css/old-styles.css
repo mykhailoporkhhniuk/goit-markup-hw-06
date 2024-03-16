@@ -410,6 +410,8 @@ transform: translateY(0%);
 
 .footer-logo {
     display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
     margin-bottom: 16px;
 }
 
